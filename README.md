@@ -24,7 +24,7 @@ This repository contains basic HTML, CSS and JavaScript codes that I used to tes
 
 ### Links
 
--   Live Site URL: [Click here to check out the live site](https://qrcompfm.netlify.app/)
+-   Live Site URL: [Click here to check out the live site](https://vglass.netlify.app/)
 
 ## My process
 
